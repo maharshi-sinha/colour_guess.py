@@ -4,4 +4,4 @@ A simple game in which you have to type the correct name of the colour, when the
 # Language Used :
 Python
 # ScreenShot 
-![Screenshot (289)](https://user-images.githubusercontent.com/72745563/159223180-7dd12113-52e0-453e-b15c-9b3937b37fa8.png)
+![Screenshot (291)](https://user-images.githubusercontent.com/72745563/159223664-b0476e34-879d-4a43-9cd1-44485ba3c921.png)
